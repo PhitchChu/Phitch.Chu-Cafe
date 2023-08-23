@@ -44,7 +44,7 @@
     position: absolute;
     z-index: -1;
     filter: brightness(45%);
-    background-image: url("../MyProfile/TestHTML/ภาพ/BG\ Sky.jpg");
+    background-image: url("/TestHTML/ภาพ/BG\ Sky.jpg");
     background-size: cover;
     background-position: center;
   }
@@ -58,7 +58,7 @@
     position: absolute;
     z-index: -1;
     filter: brightness(45%);
-    background-image: url("../MyProfile/TestHTML/ภาพ/BG\ Bakery.jpg");
+    background-image: url("/TestHTML/ภาพ/BG\ Bakery.jpg");
     background-size: cover;
     background-position: center;
   }
@@ -72,7 +72,7 @@
     position: absolute;
     z-index: -1;
     filter: brightness(45%);
-    background-image: url("../MyProfile/TestHTML/ภาพ/BG\ Bakery.jpg");
+    background-image: url("/TestHTML/ภาพ/BG\ Bakery.jpg");
     background-size: cover;
     background-position: center;
   }
@@ -86,7 +86,7 @@
     position: absolute;
     z-index: -1;
     filter: brightness(45%);
-    background-image: url("../MyProfile/TestHTML/ภาพ/BG\ Bakery.jpg");
+    background-image: url("/TestHTML/ภาพ/BG\ Bakery.jpg");
     background-size: cover;
     background-position: center;
   }
@@ -159,16 +159,16 @@
     cursor: pointer;
   }
   .box1 {
-    background-image: url(../MyProfile/Bgaboutme/pete\ smo.jpg); /* About me */
+    background-image: url(/Bgaboutme/pete\ smo.jpg); /* About me */
   }
   .box2 {
-    background-image: url(../MyProfile/เมนูขนม/ทาร์ดไข่ออริจินอล.jpg); /* ทาร์ตไข่ */
+    background-image: url(/เมนูขนม/ทาร์ดไข่ออริจินอล.jpg); /* ทาร์ตไข่ */
   }
   .box3 {
-    background-image: url(../MyProfile/ภาพเมนูน้ำ/แบบตกแต่ง/Lemon\ Tea\ ชามะนาวใหญ่.png); /* เมนูเครื่องดื่ม */
+    background-image: url(/ภาพเมนูน้ำ/แบบตกแต่ง/Lemon\ Tea\ ชามะนาวใหญ่.png); /* เมนูเครื่องดื่ม */
   }
   .box4 {
-    background-image: url(../MyProfile/เมนูขนม/ภาพเมนูครัวซอง.jpg);
+    background-image: url(/เมนูขนม/ภาพเมนูครัวซอง.jpg);
   }
   .phuket h2 {
     font-size: 2rem;
