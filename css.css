@@ -159,7 +159,7 @@
     cursor: pointer;
   }
   .box1 {
-    background-image: /Bgaboutme/pete\ smo.jpg; /* About me */
+    background-image:  url(\Bgaboutme\petesmo.jpg); /* About me */
   }
   .box2 {
     background-image: /เมนูขนม/ทาร์ดไข่ออริจินอล.jpg; /* ทาร์ตไข่ */
