@@ -159,16 +159,16 @@
     cursor: pointer;
   }
   .box1 {
-    background-image:  "Bgaboutme\petesmo.jpg" /* About me */
+    background-image:"Bgaboutme\petesmo.jpg" /* About me */
   }
   .box2 {
-    background-image: "เมนูขนม/ทาร์ดไข่ออริจินอล.jpg" /* ทาร์ตไข่ */
+    background-image:"เมนูขนม/ทาร์ดไข่ออริจินอล.jpg" /* ทาร์ตไข่ */
   }
   .box3 {
-    background-image: /ภาพเมนูน้ำ/แบบตกแต่ง/Lemon Tea ชามะนาวใหญ่.png; /* เมนูเครื่องดื่ม */
+    background-image:"ภาพเมนูน้ำ/แบบตกแต่ง/Lemon Tea ชามะนาวใหญ่.png"/* เมนูเครื่องดื่ม */
   }
   .box4 {
-    background-image: (/เมนูขนม/ภาพเมนูครัวซอง.jpg);
+    background-image:"/เมนูขนม/ภาพเมนูครัวซอง.jpg"
   }
   .phuket h2 {
     font-size: 2rem;
